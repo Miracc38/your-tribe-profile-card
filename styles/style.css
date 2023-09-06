@@ -17,7 +17,7 @@ main {
     width: 30em;
     max-width: 95vw;
     box-shadow: 1em .5em 2em rgba(0,0,0,.5);
-    background: #C0AD86 url('https://s3-us-west-2.amazonaws.com/s.cdpn.io/154571/Wanted.jpg');
+    background: #c08686 url('https://s3-us-west-2.amazonaws.com/s.cdpn.io/154571/Wanted.jpg');
     background-size: cover;
 }
 
